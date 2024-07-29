@@ -1,0 +1,18 @@
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\bin\Debug\traffic light system.exe.config
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\bin\Debug\traffic light system.exe
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\bin\Debug\traffic light system.pdb
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\obj\Debug\traffic light system.csprojResolveAssemblyReference.cache
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\obj\Debug\traffic_light_system.Form1.resources
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\obj\Debug\traffic_light_system.Properties.Resources.resources
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\obj\Debug\traffic light system.csproj.GenerateResource.Cache
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\obj\Debug\traffic light system.exe
+C:\Users\OSHADA J MALSHAN\Desktop\HNDIT\visual appication\traffic light system\traffic light system\obj\Debug\traffic light system.pdb
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\bin\Debug\traffic light system.exe.config
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\obj\Debug\traffic light system.exe
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\obj\Debug\traffic light system.pdb
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\bin\Debug\traffic light system.exe
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\bin\Debug\traffic light system.pdb
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\obj\Debug\traffic light system.csprojResolveAssemblyReference.cache
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\obj\Debug\traffic_light_system.Form1.resources
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\obj\Debug\traffic_light_system.Properties.Resources.resources
+C:\Users\oshanda janith\Desktop\HNDIT\project\traffic light system\traffic light system\obj\Debug\traffic light system.csproj.GenerateResource.Cache
